@@ -3,8 +3,11 @@ Welcome to my GitHub! I’m a Java Architect & Cloud Specialist with 10+ years o
 
 🌟 About Me
 💼 Currently: Associate Solution Architect & Lead Software Engineer at Sun Territory, Japan
+
 🎯 What I Do: Helping businesses modernize their applications, migrate to cloud-based microservices, and optimize for performance and cost-efficiency
+
 💡 Passionate About:
+
 Cloud & microservices architectures
 Scalable Java & Spring Boot applications
 AWS, Kubernetes, Docker, and cloud automation
@@ -35,21 +38,26 @@ I actively write about AWS, cloud technologies, and microservices on Medium & Gi
 
 📌 Career Highlights
 🚀 Architected microservices solutions handling 40M+ users
+
 👨‍💻 Led teams of 30+ developers, ensuring smooth project delivery
+
 ⚡ Boosted system performance by 30% with advanced tuning techniques
+
 ☁️ Migrated legacy systems to the cloud, cutting costs & improving scalability
+
 🔄 Integrated financial systems using Kafka & Apache Camel
 
 📬 Let’s Connect!
 🌍 GitHub: arafinsami
+
 📄 Resume: Available on request
+
 💼 LinkedIn: Md Samiul Arafin
+
 📧 Email: sami.cse.1112@gmail.com
+
 📱 WhatsApp: +81-7091123954
 
 🚀 Always open to exciting opportunities and collaboration. Let’s build something great together! 😊
 
-<!---
-arafinsami/arafinsami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This version improves readability with clear spacing between sections while keeping it professional and engaging. Let me know if you’d like any tweaks! 🚀
