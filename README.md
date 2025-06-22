@@ -54,7 +54,7 @@ I actively write about AWS, cloud technologies, and microservices on Medium & Gi
 
 💼 LinkedIn: Md Samiul Arafin
 
-📧 Email: sami.cse.1112@gmail.com
+📧 Email: sami.software.arch@gmail.com
 
 📱 WhatsApp: +81-7091123954
 
