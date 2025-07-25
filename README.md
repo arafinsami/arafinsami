@@ -1,80 +1,68 @@
 # Hi, I'm Md. Samiul Arafin
 
-Welcome to my GitHub profile! I'm a **Java Solution Architect** with over **10 years** of hands-on experience in designing and implementing large-scale, cloud-native applications across **banking**, **gaming**, and **public sector platforms**.
-
----
+Welcome to my GitHub profile. I'm a Java Solution Architect with over 10 years of experience in designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
 
-- **Current Role**: Associate Solution Architect & Lead Engineer at **Sun Territory**, Tokyo, Japan
-- **Location**: Tokyo, Japan
-- **Email**: sami.software.arch@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/samiul-arafin) | [**GitHub**](https://github.com/arafinsami) | WhatsApp: +81-7091123954
-
----
+- Current Role: Associate Solution Architect & Lead Engineer at Sun Territory, Tokyo, Japan  
+- Location: Tokyo, Japan  
+- Email: sami.software.arch@gmail.com  
+- LinkedIn: [linkedin.com/in/samiul-arafin](https://www.linkedin.com/in/samiul-arafin)  
+- GitHub: [github.com/arafinsami](https://github.com/arafinsami)  
+- WhatsApp: +81-7091123954  
 
 ## What I Do
 
-I help businesses modernize legacy systems and move toward scalable **cloud-based microservices**, leveraging platforms like **AWS** and **Kubernetes**. I specialize in:
+I help businesses modernize legacy systems and migrate to scalable, cloud-native microservices. My core strengths include:
 
-- Architecting **modular backend systems** using **Java**, **Spring Boot**, and **Kafka**
-- Leading cloud migration efforts to **AWS** and **Azure**
-- Building CI/CD pipelines using **Jenkins**, **ArgoCD**, and **Terraform**
-- Designing **secure**, **high-concurrency APIs** with real-time data processing
-- Mentoring engineering teams and leading cross-functional development efforts
-
----
+- Architecting modular backend systems using Java, Spring Boot, and Kafka  
+- Leading cloud migration efforts to AWS and Azure  
+- Building CI/CD pipelines with Jenkins, ArgoCD, and Terraform  
+- Designing secure, high-concurrency APIs with real-time data processing  
+- Mentoring engineering teams and leading cross-functional software delivery  
 
 ## Core Skills
 
-Java · Spring Boot · Spring Cloud · Apache Camel · Hibernate · TypeScript · Angular
-AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch) · Azure
-Docker · Kubernetes · Helm · Terraform · CloudFormation
-CI/CD (Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck)
-Apache Kafka · RabbitMQ · Redis · REST · GraphQL
-Spring Security · KeyCloak · JWT · OAuth2 · Tomcat
-Monitoring & Logging: Prometheus · Grafana · ELK · FileBeat
-JUnit · Mockito · OpenAPI/Swagger
-Maven · Gradle · Git · Linux · MacOS
-RDBMS (MySQL, PostgreSQL) · NoSQL (MongoDB, DynamoDB)
-Shell Scripting · Python (scripting and automation)
+Java · Spring Boot · Spring Cloud · Apache Camel · Hibernate · TypeScript · Angular  
+AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch) · Azure  
+Docker · Kubernetes · Helm · Terraform · CloudFormation  
+CI/CD (Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck)  
+Apache Kafka · RabbitMQ · Redis · REST · GraphQL  
+Spring Security · KeyCloak · JWT · OAuth2 · Tomcat  
+Monitoring & Logging: Prometheus · Grafana · ELK · FileBeat  
+JUnit · Mockito · OpenAPI/Swagger  
+Maven · Gradle · Git · Linux · MacOS  
+RDBMS (MySQL, PostgreSQL) · NoSQL (MongoDB, DynamoDB)  
+Shell Scripting · Python (for scripting and automation)  
 
----
+## Highlights
 
-## 🔍 Highlights
-
-- Built RESTful APIs handling **500K+ daily transactions** in a gaming platform
-- Engineered **Kafka pipelines** processing **2M+ events/day** for analytics and integration
-- Delivered **6+ cloud-native platforms** across finance, gaming, and public sectors
-- Implemented **CI/CD pipelines with security scanning** (SonarQube, Fortify, Black Duck)
-- Reduced deployment time by 70% and improved system performance by 30%
-- Published **OpenAPI specs**, promoted standardization and fast onboarding
-
----
+- Built RESTful APIs handling 500K+ daily transactions in a gaming platform  
+- Engineered Kafka pipelines processing 2M+ events per day  
+- Delivered over six cloud-native solutions across financial, gaming, and public domains  
+- Implemented secure CI/CD pipelines with tools such as SonarQube, Fortify, and Black Duck  
+- Reduced deployment time by 70% and improved system performance by 30%  
+- Published OpenAPI specifications to promote standardization and faster team onboarding  
 
 ## Recent Work
 
-### Sun Territory Co, Ltd (Japan)
-- Architecting scalable backend for gaming systems with high concurrency
-- Kafka-based messaging for real-time game event analytics
-- Infrastructure automation using Terraform and Docker
+**Sun Territory Co., Ltd (Japan)**  
+- Architected scalable backend systems for high-concurrency gaming workloads  
+- Built real-time analytics pipelines using Kafka  
+- Automated infrastructure with Docker and Terraform  
 
-### Rakuten (Japan)
-- Built horizontally scalable APIs for 1.2M+ concurrent requests
-- CI/CD with Jenkins, Redis cache integration, performance tuning
+**Rakuten (Japan)**  
+- Developed horizontally scalable APIs for 1.2M+ concurrent users  
+- Implemented Redis caching and CI/CD to improve latency and reliability  
 
-### UOB & DBS (Singapore)
-- Designed secure banking APIs with fraud detection
-- Apache Camel for transactional workflows and Nexus-based deployments
-
----
+**UOB and DBS (Singapore)**  
+- Designed secure financial APIs with integrated fraud detection  
+- Built Apache Camel-based workflows and Nexus CI/CD pipelines  
 
 ## Career Goals
 
-I’m always open to collaboration, mentoring, and exploring challenging opportunities where I can architect robust backend systems, drive cloud strategies, and lead engineering excellence.
+I am open to new opportunities, mentorship roles, and technical leadership positions where I can apply my experience in backend architecture, cloud engineering, and DevOps strategy.
 
-📄 Resume available upon request.
+Resume available upon request.
 
----
-
-Let’s connect and build something impactful! 😊
+Let’s connect and collaborate on impactful software solutions.
