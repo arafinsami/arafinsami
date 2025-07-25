@@ -1,63 +1,80 @@
-👋 Hey there, I'm Md. Samiul Arafin!
-Welcome to my GitHub! I’m a Java Architect & Cloud Specialist with 10+ years of experience designing and building scalable, high-performance applications. I thrive on solving complex technical challenges, optimizing cloud infrastructure, and leading engineering teams to success. 🚀
+# 👋 Hi, I'm Md. Samiul Arafin
 
-🌟 About Me
-💼 Currently: Associate Solution Architect & Lead Software Engineer at Sun Territory, Japan
+Welcome to my GitHub profile! I'm a **Java Solution Architect** with over **10 years** of hands-on experience in designing and implementing large-scale, cloud-native applications across **banking**, **gaming**, and **public sector platforms**.
 
-🎯 What I Do: Helping businesses modernize their applications, migrate to cloud-based microservices, and optimize for performance and cost-efficiency
+---
 
-💡 Passionate About:
+## About Me
 
-Cloud & microservices architectures
-Scalable Java & Spring Boot applications
-AWS, Kubernetes, Docker, and cloud automation
-Performance tuning & security best practices
-Leading teams & mentoring engineers
-🏆 I Have Extensive Experience In:
-☁️ Cloud Migrations & Modernization
-Transforming monolithic applications into sleek, cloud-based microservices and executing lift-and-shift migrations to AWS and Azure.
+- **Current Role**: Associate Solution Architect & Lead Engineer at **Sun Territory**, Tokyo, Japan
+- **Location**: Tokyo, Japan
+- **Email**: sami.software.arch@gmail.com
+- [**LinkedIn**](https://www.linkedin.com/in/samiul-arafin) | [**GitHub**](https://github.com/arafinsami) | WhatsApp: +81-7091123954
 
-🏗 AWS Cloud Administration
-Proficient in EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFormation, CloudFront, CloudWatch, and more.
+---
 
-📊 Monitoring & Optimization
-Skilled in Prometheus, Grafana, Jaeger, and AWS monitoring solutions to build scalable, maintainable, and cost-efficient systems.
+## What I Do
 
-🐳 DevOps & Containerization
-Expert in Docker & Kubernetes for container management, adopting CI/CD pipelines, and automating deployments for faster releases.
+I help businesses modernize legacy systems and move toward scalable **cloud-based microservices**, leveraging platforms like **AWS** and **Kubernetes**. I specialize in:
 
-💰 Cloud Cost Optimization & Management
-Deep expertise in reducing operational costs while maintaining high availability and scalability.
+- Architecting **modular backend systems** using **Java**, **Spring Boot**, and **Kafka**
+- Leading cloud migration efforts to **AWS** and **Azure**
+- Building CI/CD pipelines using **Jenkins**, **ArgoCD**, and **Terraform**
+- Designing **secure**, **high-concurrency APIs** with real-time data processing
+- Mentoring engineering teams and leading cross-functional development efforts
 
-🎯 Technical Leadership & Training
-Exceptional ability to communicate complex technical concepts and collaborate with cross-functional teams.
-Skilled in CloudFormation and infrastructure automation tools.
-Conducting technical and leadership training to bridge skill gaps and enhance team performance.
-✍️ Sharing Knowledge
-I actively write about AWS, cloud technologies, and microservices on Medium & GitHub, empowering others to navigate cloud-native development with ease.
+---
 
-📌 Career Highlights
-🚀 Architected microservices solutions handling 40M+ users
+## Core Skills
 
-👨‍💻 Led teams of 30+ developers, ensuring smooth project delivery
+Java · Spring Boot · Spring Cloud · Apache Camel · Hibernate · TypeScript · Angular
+AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch) · Azure
+Docker · Kubernetes · Helm · Terraform · CloudFormation
+CI/CD (Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck)
+Apache Kafka · RabbitMQ · Redis · REST · GraphQL
+Spring Security · KeyCloak · JWT · OAuth2 · Tomcat
+Monitoring & Logging: Prometheus · Grafana · ELK · FileBeat
+JUnit · Mockito · OpenAPI/Swagger
+Maven · Gradle · Git · Linux · MacOS
+RDBMS (MySQL, PostgreSQL) · NoSQL (MongoDB, DynamoDB)
+Shell Scripting · Python (scripting and automation)
 
-⚡ Boosted system performance by 30% with advanced tuning techniques
+---
 
-☁️ Migrated legacy systems to the cloud, cutting costs & improving scalability
+## 🔍 Highlights
 
-🔄 Integrated financial systems using Kafka & Apache Camel
+- Built RESTful APIs handling **500K+ daily transactions** in a gaming platform
+- Engineered **Kafka pipelines** processing **2M+ events/day** for analytics and integration
+- Delivered **6+ cloud-native platforms** across finance, gaming, and public sectors
+- Implemented **CI/CD pipelines with security scanning** (SonarQube, Fortify, Black Duck)
+- Reduced deployment time by 70% and improved system performance by 30%
+- Published **OpenAPI specs**, promoted standardization and fast onboarding
 
-📬 Let’s Connect!
-🌍 GitHub: arafinsami
+---
 
-📄 Resume: Available on request
+## Recent Work
 
-💼 LinkedIn: Md Samiul Arafin
+### Sun Territory Co, Ltd (Japan)
+- Architecting scalable backend for gaming systems with high concurrency
+- Kafka-based messaging for real-time game event analytics
+- Infrastructure automation using Terraform and Docker
 
-📧 Email: sami.software.arch@gmail.com
+### Rakuten (Japan)
+- Built horizontally scalable APIs for 1.2M+ concurrent requests
+- CI/CD with Jenkins, Redis cache integration, performance tuning
 
-📱 WhatsApp: +81-7091123954
+### UOB & DBS (Singapore)
+- Designed secure banking APIs with fraud detection
+- Apache Camel for transactional workflows and Nexus-based deployments
 
-🚀 Always open to exciting opportunities and collaboration. Let’s build something great together! 😊
+---
 
-This version improves readability with clear spacing between sections while keeping it professional and engaging. Let me know if you’d like any tweaks! 🚀
+## Career Goals
+
+I’m always open to collaboration, mentoring, and exploring challenging opportunities where I can architect robust backend systems, drive cloud strategies, and lead engineering excellence.
+
+📄 Resume available upon request.
+
+---
+
+Let’s connect and build something impactful! 😊
