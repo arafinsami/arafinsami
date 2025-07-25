@@ -1,6 +1,6 @@
 # Hi, I'm Md. Samiul Arafin
 
-Welcome to my GitHub profile. I'm a Java Solution Architect with over 10 years of experience in designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
+Welcome to my GitHub profile. I'm a Java Solution Architect with over 10 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
 
@@ -23,17 +23,41 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 
 ## Core Skills
 
-Java · Spring Boot · Spring Cloud · Apache Camel · Hibernate · TypeScript · Angular  
-AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch) · Azure  
-Docker · Kubernetes · Helm · Terraform · CloudFormation  
-CI/CD (Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck)  
-Apache Kafka · RabbitMQ · Redis · REST · GraphQL  
-Spring Security · KeyCloak · JWT · OAuth2 · Tomcat  
-Monitoring & Logging: Prometheus · Grafana · ELK · FileBeat  
-JUnit · Mockito · OpenAPI/Swagger  
-Maven · Gradle · Git · Linux · MacOS  
-RDBMS (MySQL, PostgreSQL) · NoSQL (MongoDB, DynamoDB)  
-Shell Scripting · Python (for scripting and automation)  
+### Programming Languages & Scripting
+- Java, TypeScript, Shell Scripting, Python (for automation)
+
+### Frameworks & Libraries
+- Spring Boot, Spring Cloud, Hibernate, Apache Camel, Angular, Spring Security, KeyCloak, JWT, OAuth2
+
+### Cloud Platforms
+- AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch)  
+- Azure
+
+### DevOps & Infrastructure as Code
+- Docker, Kubernetes, Helm, Terraform, CloudFormation
+
+### CI/CD & Build Tools
+- Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck  
+- Maven, Gradle
+
+### Messaging & Integration
+- Apache Kafka, RabbitMQ, Redis
+
+### API & Web Technologies
+- REST, GraphQL, OpenAPI/Swagger, Tomcat
+
+### Databases
+- RDBMS: MySQL, PostgreSQL  
+- NoSQL: MongoDB, DynamoDB
+
+### Monitoring & Logging
+- Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), FileBeat
+
+### Testing & Quality
+- JUnit, Mockito, SonarQube, Fortify, Black Duck
+
+### Tools & Platforms
+- Git, Linux, MacOS
 
 ## Highlights
 
@@ -46,17 +70,17 @@ Shell Scripting · Python (for scripting and automation)
 
 ## Recent Work
 
-**Sun Territory Co., Ltd (Japan)**  
+### Sun Territory Co., Ltd (Japan)
 - Architected scalable backend systems for high-concurrency gaming workloads  
 - Built real-time analytics pipelines using Kafka  
 - Automated infrastructure with Docker and Terraform  
 
-**Rakuten (Japan)**  
+### Rakuten (Japan)
 - Developed horizontally scalable APIs for 1.2M+ concurrent users  
 - Implemented Redis caching and CI/CD to improve latency and reliability  
 
-**UOB and DBS (Singapore)**  
-- Designed secure financial APIs with integrated fraud detection  
+### UOB and DBS (Singapore)
+- Designed secure financial APIs with fraud detection capabilities  
 - Built Apache Camel-based workflows and Nexus CI/CD pipelines  
 
 ## Career Goals
