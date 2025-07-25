@@ -23,78 +23,19 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 
 ## Core Skills
 
-### Programming Languages & Scripting
-- Java
-- TypeScript
-- Shell Scripting
-- Python (for automation)
-
-### Frameworks & Libraries
-- Spring Boot
-- Spring Cloud
-- Hibernate
-- Apache Camel
-- Angular
-- Spring Security
-- KeyCloak
-- JWT
-- OAuth2
-
-### Cloud Platforms
-- AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch)
-- Azure
-
-### DevOps & Infrastructure as Code
-- Docker
-- Kubernetes
-- Helm
-- Terraform
-- CloudFormation
-
-### CI/CD & Build Tools
-- Jenkins
-- Argo CD
-- Nexus
-- SonarQube
-- Fortify
-- Black Duck
-- Maven
-- Gradle
-
-### Messaging & Integration
-- Apache Kafka
-- RabbitMQ
-- Redis
-
-### API & Web Technologies
-- REST
-- GraphQL
-- OpenAPI/Swagger
-- Tomcat
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- DynamoDB
-
-### Monitoring & Logging
-- Prometheus
-- Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- FileBeat
-
-### Testing & Quality
-- JUnit
-- Mockito
-- SonarQube
-- Fortify
-- Black Duck
-
-### Tools & Platforms
-- Git
-- Linux
-- MacOS
+| **Category**                  | **Skills**                                                                                                                                               |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming & Scripting**  | Java, TypeScript, Shell Scripting, Python (for automation)                                                                                               |
+| **Frameworks & Libraries**   | Spring Boot, Spring Cloud, Hibernate, Apache Camel, Angular, Spring Security, KeyCloak, JWT, OAuth2                                                      |
+| **Cloud Platforms**          | AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch), Azure                                                                           |
+| **DevOps & IaC**             | Docker, Kubernetes, Helm, Terraform, CloudFormation                                                                                                      |
+| **CI/CD & Build Tools**      | Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck, Maven, Gradle                                                                                   |
+| **Messaging & Integration**  | Apache Kafka, RabbitMQ, Redis                                                                                                                             |
+| **API & Web Technologies**   | REST, GraphQL, OpenAPI/Swagger, Tomcat                                                                                                                    |
+| **Databases**                | MySQL, PostgreSQL, MongoDB, DynamoDB                                                                                                                      |
+| **Monitoring & Logging**     | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), FileBeat                                                                               |
+| **Testing & Quality**        | JUnit, Mockito, SonarQube, Fortify, Black Duck                                                                                                            |
+| **Tools & Platforms**        | Git, Linux, MacOS                                                                                                                                         |
 
 ## Highlights
 
