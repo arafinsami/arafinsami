@@ -24,40 +24,77 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 ## Core Skills
 
 ### Programming Languages & Scripting
-- Java, TypeScript, Shell Scripting, Python (for automation)
+- Java
+- TypeScript
+- Shell Scripting
+- Python (for automation)
 
 ### Frameworks & Libraries
-- Spring Boot, Spring Cloud, Hibernate, Apache Camel, Angular, Spring Security, KeyCloak, JWT, OAuth2
+- Spring Boot
+- Spring Cloud
+- Hibernate
+- Apache Camel
+- Angular
+- Spring Security
+- KeyCloak
+- JWT
+- OAuth2
 
 ### Cloud Platforms
-- AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch)  
+- AWS (EC2, S3, VPC, RDS, DynamoDB, IAM, Route 53, CloudFront, CloudWatch)
 - Azure
 
 ### DevOps & Infrastructure as Code
-- Docker, Kubernetes, Helm, Terraform, CloudFormation
+- Docker
+- Kubernetes
+- Helm
+- Terraform
+- CloudFormation
 
 ### CI/CD & Build Tools
-- Jenkins, Argo CD, Nexus, SonarQube, Fortify, Black Duck  
-- Maven, Gradle
+- Jenkins
+- Argo CD
+- Nexus
+- SonarQube
+- Fortify
+- Black Duck
+- Maven
+- Gradle
 
 ### Messaging & Integration
-- Apache Kafka, RabbitMQ, Redis
+- Apache Kafka
+- RabbitMQ
+- Redis
 
 ### API & Web Technologies
-- REST, GraphQL, OpenAPI/Swagger, Tomcat
+- REST
+- GraphQL
+- OpenAPI/Swagger
+- Tomcat
 
 ### Databases
-- RDBMS: MySQL, PostgreSQL  
-- NoSQL: MongoDB, DynamoDB
+- MySQL
+- PostgreSQL
+- MongoDB
+- DynamoDB
 
 ### Monitoring & Logging
-- Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), FileBeat
+- Prometheus
+- Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- FileBeat
 
 ### Testing & Quality
-- JUnit, Mockito, SonarQube, Fortify, Black Duck
+- JUnit
+- Mockito
+- SonarQube
+- Fortify
+- Black Duck
 
 ### Tools & Platforms
-- Git, Linux, MacOS
+- Git
+- Linux
+- MacOS
 
 ## Highlights
 
