@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a Java Solution Architect with over 10 years o
 
 ## About Me
 
-- Current Role: Associate Solution Architect & Lead Engineer, Tokyo, Japan  
+- Current Role: Solution Architect & Lead Engineer, Tokyo, Japan  
 - Location: Tokyo, Japan  
 - Email: sami.software.arch@gmail.com  
 - LinkedIn: [linkedin.com/in/samiul-arafin](https://www.linkedin.com/in/samiul-arafin)  
