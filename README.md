@@ -1,6 +1,6 @@
 # Hi, I'm Md. Samiul Arafin
 
-Welcome to my GitHub profile. I'm a Java Solution Architect with over 10 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
+Welcome to my GitHub profile. I'm an Enterprise Solution Architect with over 11 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
 
