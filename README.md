@@ -1,6 +1,6 @@
 # Hi, I'm Md. Samiul Arafin
 
-Welcome to my GitHub profile. I'm an Enterprise Solution Architect with over 11 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
+Welcome to my GitHub profile. I'm an Principal Software Engineer with over 11 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
 
@@ -9,7 +9,6 @@ Welcome to my GitHub profile. I'm an Enterprise Solution Architect with over 11 
 - Email: sami.software.arch@gmail.com  
 - LinkedIn: [linkedin.com/in/samiul-arafin](https://www.linkedin.com/in/samiul-arafin)  
 - GitHub: [github.com/arafinsami](https://github.com/arafinsami)  
-- WhatsApp: +81-7091123954  
 
 ## What I Do
 
