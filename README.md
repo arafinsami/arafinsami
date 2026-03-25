@@ -45,21 +45,6 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 - Reduced deployment time by 70% and improved system performance by 30%  
 - Published OpenAPI specifications to promote standardization and faster team onboarding  
 
-## Recent Work
-
-### Sun Territory Co., Ltd (Japan)
-- Architected scalable backend systems for high-concurrency gaming workloads  
-- Built real-time analytics pipelines using Kafka  
-- Automated infrastructure with Docker and Terraform  
-
-### Rakuten (Japan)
-- Developed horizontally scalable APIs for 1.2M+ concurrent users  
-- Implemented Redis caching and CI/CD to improve latency and reliability  
-
-### UOB and DBS (Singapore)
-- Designed secure financial APIs with fraud detection capabilities  
-- Built Apache Camel-based workflows and Nexus CI/CD pipelines  
-
 ## Career Goals
 
 I am open to new opportunities, mentorship roles, and technical leadership positions where I can apply my experience in backend architecture, cloud engineering, and DevOps strategy.
