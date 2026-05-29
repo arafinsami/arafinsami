@@ -3,7 +3,6 @@
 Welcome to my GitHub profile. I'm a Principal Software Engineer with over 11+ years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
-
 - Current Role: AVP of Engineering, Tokyo, Japan  
 - Location: Tokyo, Japan  
 - Email: sami.software.arch@gmail.com  
@@ -11,9 +10,7 @@ Welcome to my GitHub profile. I'm a Principal Software Engineer with over 11+ ye
 - GitHub: [github.com/arafinsami](https://github.com/arafinsami)  
 
 ## What I Do
-
 I help businesses modernize legacy systems and migrate to scalable, cloud-native microservices. My core strengths include:
-
 - Architecting modular backend systems using Java, Spring Boot, and Kafka  
 - Leading cloud migration efforts to AWS and Azure  
 - Building CI/CD pipelines with Jenkins, ArgoCD, and Terraform  
@@ -21,7 +18,6 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 - Mentoring engineering teams and leading cross-functional software delivery  
 
 ## Core Skills
-
 | **Category**                  | **Skills**                                                                                                                                               |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming & Scripting**  | Java, TypeScript, Shell Scripting, Python (for automation)                                                                                               |
@@ -37,7 +33,6 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 | **Tools & Platforms**        | Git, Linux, MacOS                                                                                                                                         |
 
 ## Highlights
-
 - Built RESTful APIs handling 500K+ daily transactions in a gaming platform  
 - Engineered Kafka pipelines processing 2M+ events per day  
 - Delivered over six cloud-native solutions across financial, gaming, and public domains  
@@ -46,7 +41,6 @@ I help businesses modernize legacy systems and migrate to scalable, cloud-native
 - Published OpenAPI specifications to promote standardization and faster team onboarding  
 
 ## Career Goals
-
 I am open to new opportunities, mentorship roles, and technical leadership positions where I can apply my experience in backend architecture, cloud engineering, and DevOps strategy.
 
 Resume available upon request.
