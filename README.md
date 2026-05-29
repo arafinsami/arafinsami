@@ -1,10 +1,10 @@
 # Hi, I'm Md. Samiul Arafin
 
-Welcome to my GitHub profile. I'm an Principal Software Engineer with over 11 years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
+Welcome to my GitHub profile. I'm a Principal Software Engineer with over 11+ years of experience designing and implementing large-scale, cloud-native applications across banking, gaming, and public sector platforms.
 
 ## About Me
 
-- Current Role: Solution Architect & Lead Engineer, Tokyo, Japan  
+- Current Role: AVP of Engineering, Tokyo, Japan  
 - Location: Tokyo, Japan  
 - Email: sami.software.arch@gmail.com  
 - LinkedIn: [linkedin.com/in/samiul-arafin](https://www.linkedin.com/in/samiul-arafin)  
